@@ -1328,7 +1328,7 @@
 			)
 		)
 		(property "Description" "Serial UART"
-			(at 104.14 48.26 0)
+			(at 107.95 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)

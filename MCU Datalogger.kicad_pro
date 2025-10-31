@@ -521,6 +521,46 @@
       {
         "netclass": "Default",
         "pattern": "/MISO"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/RX"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/TX"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/D2"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/D3"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/D4"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/D5"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/D7"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/D6"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/RESET"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/D8"
       }
     ]
   },
