@@ -1,0 +1,28 @@
+# KiCad auto-generated files
+*-backups/
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.kicad_pro.lck
+*.kicad_sch.lck
+*.kicad_pcb.lck
+
+# Cache files
+fp-info-cache
+*_cache.lib
+
+# Auto-save files
+_autosave-*
+
+# Generated output files
+*.net
+*.cmp
+*.rpt
+*.bom
+*.csv
+*.xml
+*.plt
+*.pdf
+*.pos
+Gerber/
