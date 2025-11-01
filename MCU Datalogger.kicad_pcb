@@ -80,7 +80,7 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -111,9 +111,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "MCU_Datalogger Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -7593,6 +7593,282 @@
 			)
 		)
 	)
+	(gr_text "No"
+		(at 279.527338 93.7682 0)
+		(layer "User.1")
+		(uuid "06543ed1-24e1-4981-9cdb-896b0ac7d20c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "No"
+		(at 279.527338 97.7252 0)
+		(layer "User.1")
+		(uuid "299600ca-7087-4efa-9160-dcd3820bd756")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Min hole diameter: "
+		(at 254.584481 89.8112 0)
+		(layer "User.1")
+		(uuid "2aed0908-b11d-47d4-adcd-eb252c59aca0")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Board Thickness: "
+		(at 254.584481 81.8972 0)
+		(layer "User.1")
+		(uuid "2c4f312e-95f4-48ac-a22e-87bd7c40c002")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0.3000 mm"
+		(at 279.527338 89.8112 0)
+		(layer "User.1")
+		(uuid "36eb7292-0e5e-419b-a9be-e4d0e4a174ba")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Impedance Control: "
+		(at 254.584481 93.7682 0)
+		(layer "User.1")
+		(uuid "3734d6ec-da48-4649-b38c-a1ef84654fb1")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "No"
+		(at 220.427343 97.7252 0)
+		(layer "User.1")
+		(uuid "38cdfcee-89c8-4306-b3bc-726da5927027")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 279.527338 85.8542 0)
+		(layer "User.1")
+		(uuid "3abdfcc1-ada0-47b7-82ce-17f2540db961")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Plated Board Edge: "
+		(at 254.584481 97.7252 0)
+		(layer "User.1")
+		(uuid "4ff1c96e-efb0-458e-be78-b4a26ec82b5c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Castellated pads: "
+		(at 187.7702 97.7252 0)
+		(layer "User.1")
+		(uuid "5142db19-5f61-439d-b773-b356aff4b2c1")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "BOARD CHARACTERISTICS"
+		(at 187.0202 76.4032 0)
+		(layer "User.1")
+		(uuid "5214bf36-8cab-40d4-a4af-0140792f24df")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "None"
+		(at 220.427343 93.7682 0)
+		(layer "User.1")
+		(uuid "58b1f5c6-1cc6-4203-9f71-c0a8c6cda23a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "58.5511 mm x 39.9075 mm"
+		(at 220.427343 85.8542 0)
+		(layer "User.1")
+		(uuid "70a6cec4-ab54-4537-8166-17fdd5ff8b36")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Min track/spacing: "
+		(at 187.7702 89.8112 0)
+		(layer "User.1")
+		(uuid "8e9b2d0d-18d2-423c-a894-3137840fa84f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "1.6000 mm"
+		(at 279.527338 81.8972 0)
+		(layer "User.1")
+		(uuid "b32333aa-223c-4246-9dc3-53880437f406")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "0.0000 mm / 0.0000 mm"
+		(at 220.427343 89.8112 0)
+		(layer "User.1")
+		(uuid "b55b59e1-b51c-461b-ab0b-726416a2f175")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text ""
+		(at 254.584481 85.8542 0)
+		(layer "User.1")
+		(uuid "b59263ed-e7de-4b8a-8ce1-fe302edf4a54")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Edge card connectors: "
+		(at 187.7702 101.6822 0)
+		(layer "User.1")
+		(uuid "b638ee47-e0d3-4423-b5b3-3720a04baa14")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Copper Finish: "
+		(at 187.7702 93.7682 0)
+		(layer "User.1")
+		(uuid "bc28a525-a180-4378-ba62-bf3c8cf06291")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "No"
+		(at 220.427343 101.6822 0)
+		(layer "User.1")
+		(uuid "be03a948-0a78-4736-bb12-fae9d8770adf")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Board overall dimensions: "
+		(at 187.7702 85.8542 0)
+		(layer "User.1")
+		(uuid "eaba2ddf-093b-4caf-af48-6b2989704eb6")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "2"
+		(at 220.427343 81.8972 0)
+		(layer "User.1")
+		(uuid "f087f234-ee5e-44a5-9119-c6351042add3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "Copper Layer Count: "
+		(at 187.7702 81.8972 0)
+		(layer "User.1")
+		(uuid "fa2a249c-4ce8-492b-8f38-ff1044a9167d")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+	)
 	(segment
 		(start 148.082 81.915)
 		(end 148.492 81.505)
@@ -12506,6 +12782,22 @@
 				(xy 129.506858 76.717095) (xy 129.553584 76.707788) (xy 131.768896 76.700501) (xy 131.769304 76.7005)
 				(xy 175.943038 76.7005)
 			)
+		)
+	)
+	(group "group-boardCharacteristics"
+		(uuid "1f9c9125-adbf-432c-bbf1-3dc8e8dc8d4d")
+		(members "06543ed1-24e1-4981-9cdb-896b0ac7d20c" "299600ca-7087-4efa-9160-dcd3820bd756"
+			"2aed0908-b11d-47d4-adcd-eb252c59aca0" "2c4f312e-95f4-48ac-a22e-87bd7c40c002"
+			"36eb7292-0e5e-419b-a9be-e4d0e4a174ba" "3734d6ec-da48-4649-b38c-a1ef84654fb1"
+			"38cdfcee-89c8-4306-b3bc-726da5927027" "3abdfcc1-ada0-47b7-82ce-17f2540db961"
+			"4ff1c96e-efb0-458e-be78-b4a26ec82b5c" "5142db19-5f61-439d-b773-b356aff4b2c1"
+			"5214bf36-8cab-40d4-a4af-0140792f24df" "58b1f5c6-1cc6-4203-9f71-c0a8c6cda23a"
+			"70a6cec4-ab54-4537-8166-17fdd5ff8b36" "8e9b2d0d-18d2-423c-a894-3137840fa84f"
+			"b32333aa-223c-4246-9dc3-53880437f406" "b55b59e1-b51c-461b-ab0b-726416a2f175"
+			"b59263ed-e7de-4b8a-8ce1-fe302edf4a54" "b638ee47-e0d3-4423-b5b3-3720a04baa14"
+			"bc28a525-a180-4378-ba62-bf3c8cf06291" "be03a948-0a78-4736-bb12-fae9d8770adf"
+			"eaba2ddf-093b-4caf-af48-6b2989704eb6" "f087f234-ee5e-44a5-9119-c6351042add3"
+			"fa2a249c-4ce8-492b-8f38-ff1044a9167d"
 		)
 	)
 	(embedded_fonts no)
